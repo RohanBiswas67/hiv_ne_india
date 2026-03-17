@@ -15,7 +15,7 @@ A compartmental mathematical model (S-I-D-T-R ODE system) analyzing HIV transmis
 | Manipur | 0.81% | ~0.98% | **+82%** |
 | Assam | 0.13% | ~0.10% | +42% |
 
-**Bottom line:** Even when ART linkage is strong, small virologic failure rates accumulate into a rapidly growing resistant reservoir — especially in IDU-dominated states. Standard cascade metrics miss this risk.
+**Bottom line:** Even when ART linkage is strong, small virologic failure rates accumulate into a rapidly growing resistant reservoir especially in IDU-dominated states. Standard cascade metrics miss this risk.
 
 ---
 
