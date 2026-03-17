@@ -1,4 +1,4 @@
-# HIV Transmission & Drug Resistance Modeling — North-East India
+# HIV Transmission & Drug Resistance Modeling - North-East India
 
 **Rohan Biswas** | Presented at EDNEIHA-2026, Tezpur University (March 2026)
 
