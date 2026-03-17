@@ -40,7 +40,7 @@ Parameters are fully empirical, calibrated to **NACO 2024/2025 state-level surve
 ├── simulations.py    # Baseline, Monte Carlo (200 sims, ±15% noise), scenario analysis
 ├── plots.py          # All figures (run to regenerate)
 ├── outputs/          # Generated plots
-├── data/ 	      # Datasets generated from NACO state-level surveillance data
+├── data/ 	          # Datasets generated from NACO state-level surveillance data
 └── README.md
 ```
 
